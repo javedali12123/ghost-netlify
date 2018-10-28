@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: javedali12123/netlify-cms
+  repo: javedali12123/ghost-netlify
 
 media_folder: media_folder
 
